@@ -1,3 +1,3 @@
 # hello-world
-first repository\n
+first repository
 write something to test
